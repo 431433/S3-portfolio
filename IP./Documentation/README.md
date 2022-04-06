@@ -3,9 +3,9 @@
 ## Inhoud
 
 - [Project beschrijving:](#project-beschrijving)
-    + [**Hoofddoel,**](#-----hoofddoel)
-    + [**Gebruikers,**](#--gebruikers)
-    + [**Vergelijkbaar,**](#--vergelijkbaar)
+    + [**Hoofddoel,**](#------hoofddoel--)
+    + [**Gebruikers,**](#---gebruikers--)
+    + [**Vergelijkbaar,**](#---vergelijkbaar--)
 - [Requirements:](#requirements)
 - [User stories:](#user-stories)
 - [Schermschetsen:](#schermschetsen)

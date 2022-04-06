@@ -4,5 +4,5 @@
  <br/>
  
  <p>
-    This repository is my portfolio for my <a href="https://github.com/431433/S3-portfolio/tree/main/IP.">Individual Project</a> (IP) and <a href="https://github.com/431433/S3-portfolio/tree/main/GP.">Group Project</a> (GP)
+    This repository is my portfolio for my <a href="https://github.com/431433/S3-portfolio/tree/main/IP.">Individual Project</a> (IP) and <a href="https://github.com/431433/S3-portfolio/tree/main/GP.">Group Project</a> (GP) from the third semester
 </p>

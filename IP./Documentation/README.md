@@ -1,18 +1,17 @@
-# Inhoud
-[Nieuws applicatie	2](#_Toc100133190)
+# **Nieuws applicatie**
 
-[Project beschrijving:	2](#_Toc100133191)
+## Inhoud
 
-[Requirements:	2](#_Toc100133192)
+[Project beschrijving](#Project beschrijving:)
 
-[User stories:	2](#_Toc100133193)
+[Requirements](#Requirements:)
 
-[Schermschetsen:	3](#_Toc100133194)
+[User stories](#User stories:)
+
+[Schermschetsen](#Schermschetsen:)
 
 
-
-## **Nieuws applicatie**
-## Project beschrijving:
+### Project beschrijving:
 ##### `	`**Hoofddoel,**
 Het hoofddoel is om een online applicatie te maken waar mensen recente nieuwsartikelen kunnen lezen die binnen komen via een ‘News API’. Mensen kunnen reacties achterlaten en artikelen reviewen. De code is voor de front-end geschreven in vue** en de back-end is in C#.
 ##### **Gebruikers,**
@@ -21,7 +20,7 @@ Iedereen die wilt en toegang heeft tot het internet kan gebruik maken van de app
 
 <https://news.google.com/topstories?hl=nl&gl=NL&ceid=NL:nl>
 
-## Requirements:
+### Requirements:
 - Een gebruiker kan nieuws artikelen lezen.
 - *Een gebruiker kan een reactie achter laten bij een artikel.\**
 - *Een gebruiker kan een review (cijfer 1 tot 10) achter laten.\**
@@ -32,7 +31,7 @@ Iedereen die wilt en toegang heeft tot het internet kan gebruik maken van de app
 
 *\*  : Misschien*
 
-## User stories:
+### User stories:
 - Als gebruiker wil ik een overzicht van recente nieuwsartikelen zien, zodat ik er een uit kan kiezen.
 - Als gebruiker wil ik kunnen filteren, zodat ik het artikel kan vinden wat ik zoek. 
 - Als gebruiker wil ik nieuws artikelen vinden van andere landen, zodat ik kan kijken wat daar gebeurd.
@@ -41,18 +40,5 @@ Iedereen die wilt en toegang heeft tot het internet kan gebruik maken van de app
 
 
 
-*Figuur 1, eerste test/versie nieuws applicatie via de 'News API'*
-## ![](Aspose.Words.1ca13d22-02e7-4d34-b608-563ce99afa55.001.png)![Afbeelding met tekst
 
-Automatisch gegenereerde beschrijving](Aspose.Words.1ca13d22-02e7-4d34-b608-563ce99afa55.002.png)Schermschetsen:
-*Figuur 2, start scherm*
-![](Aspose.Words.1ca13d22-02e7-4d34-b608-563ce99afa55.003.png)![](Aspose.Words.1ca13d22-02e7-4d34-b608-563ce99afa55.004.png)	
-
-
-
-
-
-
-
-*Figuur 3, inlog scherm*
-![](Aspose.Words.1ca13d22-02e7-4d34-b608-563ce99afa55.005.png)![](Aspose.Words.1ca13d22-02e7-4d34-b608-563ce99afa55.006.png)
+### Schermschetsen:

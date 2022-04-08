@@ -1,3 +1,10 @@
+## Inhoud
+- [Web Application](#web-application)
+- [Software Quality](#software-quality)
+- [CI/CD](#cicd)
+- [Professional](#professional)
+<hr/>
+
 # Web Application
 
 Om deze leeruitkomst aan te tonen heb ik (tot nu toe) 1 fullstack applicatie gemaakt waar mensen nieuws van over de hele wereld kunnen lezen en commentaar op deze artikelen kan geven.
@@ -39,7 +46,6 @@ Om de gebruikers commentaar achter te laten, maak ik gebruik van een apart lopen
 
 (Afbeelding)
 
-#
 
 # Software Quality
 

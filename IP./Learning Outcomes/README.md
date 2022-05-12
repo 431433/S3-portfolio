@@ -16,7 +16,7 @@ Om deze leeruitkomst aan te tonen heb ik (tot nu toe) 1 fullstack applicatie gem
 
 ## News front-end
 
-Repository: [News](https://github.com/431433/S3-NewsIP)
+Repository: [News front-end](https://github.com/431433/S3-NewsIP)
 
 ### **Losse pagina,**
 
@@ -32,7 +32,7 @@ Voor het gebruik van accounts, wil ik Auth0 daarvoor gebruiken. Met deze account
 
 ## News back-end
 
-Repository: [News](https://github.com/431433/S3-NewsIP)
+Repository: [News back-end](https://github.com/431433/S3-NewsIP)
 
 ### **NewsAPI,**
 

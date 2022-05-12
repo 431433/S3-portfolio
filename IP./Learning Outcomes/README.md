@@ -28,17 +28,19 @@ In mijn front-end applicatie begin je op een losse pagina die uitwisselt met ver
 
 Voor het gebruik van accounts, wil ik Auth0 daarvoor gebruiken. Met deze accounts kunnen gebruikers commentaar achterlaten op artikelen.
 
-(afbeelding)
+![Auth0Login](https://user-images.githubusercontent.com/77282414/168020607-d229e649-9238-4d2e-b462-d51784e94ae5.PNG)
+(comment afbeelding toevoegen)
 
 ## News back-end
 
-Repository: [News back-end](https://github.com/431433/S3-NewsIP)
+Repository: [News back-end](https://github.com/431433/S3-NewsBackEnd)
 
 ### **NewsAPI,**
 
 Om alle artikelen op te halen maak ik gebruik van de NewsAPI.
 
-(Afbeelding)
+![NewsAPI](https://user-images.githubusercontent.com/77282414/168020985-ff9c9ca6-837a-4916-ad8b-fb433427ea77.PNG)
+
 
 ### **Interactie,**
 
@@ -59,7 +61,8 @@ Om deze leeruitkomst aan te tonen maak ik gebruik van meerdere .yaml bestanden, 
 
 SonarCloud gebruik ik om de kwaliteit van mijn applicatie te checken.
 
-(Afbeelding)
+![SonarCloud](https://user-images.githubusercontent.com/77282414/168021465-adb4986c-b33f-4071-965f-0ae1360c822e.PNG)
+
 
 # Professional
 
@@ -69,9 +72,11 @@ Om mijn project zo soepel mogelijk te laten lopen, werk in met verschillende bra
 
 **Branches:**
 
-- Main
-- Development
+- Master
+- Hot Fix
 - Release
+- Development
 - Feature
 
-(Afbeelding)
+![GitBranching_3](https://user-images.githubusercontent.com/77282414/168022124-7be833fe-fa9d-4e9f-8496-4d698a69a0b8.png)
+

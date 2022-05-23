@@ -16,7 +16,7 @@ Om deze leeruitkomst aan te tonen heb ik (tot nu toe) 1 fullstack applicatie gem
 
 ## News front-end
 
-Repository: [News front-end](https://github.com/431433/S3-NewsIP)
+Repository: [News front-end](https://github.com/431433/S3-NewsFrontEnd)
 
 ### **Losse pagina,**
 

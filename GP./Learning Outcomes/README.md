@@ -43,9 +43,9 @@ Om te communiceren met de front-end maken wij gebruik van API call’s. De front
 
 
 ## **3. Agile method** 
-**Learning outcome**
+      **Learning outcome**
 
-You **choose** and implement the most suitable agile software development method for your software project.
+      You **choose** and implement the most suitable agile software development method for your software project.
 
 Om deze leeruitkomst aan te tonen maken wij als groep gebruik van Agile Scrum.
 
@@ -71,26 +71,26 @@ Hier komt alle communicatie die wij hebben gehad voor de retrospectieve  gesprek
 
 ## **5. Cultural differences and ethics** 
 
-**Learning outcome:**
+      **Learning outcome:**
 
-You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software development.
+      You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software development.
 
 
 ## **6. Requirements and Design** 
-**Learning outcome:**
+      **Learning outcome:**
 
-You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
+      You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
 
 
 ## **7. Business processes** 
-**Learning outcome:** 
+      **Learning outcome:** 
 
-You analyze and describe **simple** business processes that are **related** to your project.
+      You analyze and describe **simple** business processes that are **related** to your project.
 
 
 ## **8. Professional** 
-**Learning outcome:**
+      **Learning outcome:**
 
-You act in a **professional manner** during software development and learning.
+      You act in a **professional manner** during software development and learning.
 
 

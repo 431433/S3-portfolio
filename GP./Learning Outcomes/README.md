@@ -118,9 +118,23 @@ Performance Testing is een softwaretest proces dat wordt gebruikt voor het teste
       You analyze and describe **simple** business processes that are **related** to your project.
 
 
+Business process reengineering (BPR) is gericht op het verbeteren van de efficiëntie en effectiviteit van de processen die binnen en tussen organisaties bestaan.
+
+
+<img src="https://user-images.githubusercontent.com/77282414/173250075-004a74d8-941f-4d71-9440-62330efd53b2.png" width="300">
+
+
+
 ## **8. Professional** 
       **Learning outcome:**
 
       You act in a **professional manner** during software development and learning.
 
+Dit semester hebben we voor het eerst echt de Agile Scrum manier van werken gevolgd, we hielden dagelijkse stand-ups op groepsproject dagen, sprintreview, sprintretrospectief etc. In het begin verliep het houden van de dagelijkse stand-ups wel stroef maar na kort overleg met een van onze docenten (Marc) kwam hij met het idee om het persoonlijker te maken maar wel concreet te zijn met de stand-ups. Zo konden we elkaar beter leren kennen en vonden we het minder moeilijk om het te zeggen als iets niet lukt. Hierdoor konden we samen mogelijk tot een oplossing komen.
 
+
+Dit semester werkten we in sprints van 3/4 weken, na elke sprint was er contact met de opdrachtgever voor een korte oplevering/update van het project en de bijhorende stand van zaken. Ik mailde dan altijd onze opdrachtgever om een vergadering in te plannen. Na zo'n oplevering/update hielden we in discord de dag erna een retrospective om alles na te bespreken en het netjes bij te houden in feedpulse.
+
+In discord hielden we ook altijd contact over opkomende vergaderingen of eventuele vertragingen die we ervaren met het OV of files, hier hadden we dan ook een apart 'kanaal' voor die we 'meetings'noemde, zo waren er ook kanalen voor notities of off-topic vragen. Op deze manier konden we makkelijk overzicht houden en makkelijk documentatie terug vinden.
+
+In het begin merkte ik wel dat ik minder makkelijk communiceerde met mijn groepje, we overlegten een plan van aanpak met elkaar en daar bleef het meestal bij. Pas na ongeveer 5 weken ging de communicatie soepeler naar mijn gevoel en kon ik ook vragen stellen over mijn indivuele project, we waren niet meer genoodzaakt om puur en alleen te praten over het groepsproject en verder niks. Richting het einde van dit semester was de communicatie voor mij perfect, ik durfte gesprekken te starten en kon mijn mening geven als ik het niet ergens mee eens was, of als ik dacht dat er een betere manier was.

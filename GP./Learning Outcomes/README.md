@@ -90,6 +90,26 @@ Na alle team overleggen of sprint oplevering hebben we in de discord omgeving on
       **Learning outcome:**
 
       You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
+      
+Documentatie: (linkje invoegen)
+
+Na ons eerste overleg met de opdrachtgever waren we aan de slag gegaan om requirements op te stellen, op deze manier konden we het bestaansrecht van het project doorlopend blijven toetsen door deze altijd te bespreken. Zie het als een vorm van procesbewaking. Hierdoor was het altijd duidelijk wat we moesten doen en hoe de opdrachtgever het ook voor zich zag.
+
+
+Voor het uiterlijk van de applicatie hebben we zoals eerder vermeld in dit document gebruik van schermschetsen gemaakt in Adobe XD. 
+Dit helpt me niet alleen om te verwoorden hoe we van plan zijn een probleem aan te pakken, maar door hardop op papier te denken, kan iedereen - ikzelf, mijn team en de opdrachtgever - zien hoe ideeën beginnen, evolueren en uiteindelijk tot de oplossing waar we hebben allemaal naar toe gewerkt vorm krijgt.
+
+
+<img src="https://user-images.githubusercontent.com/77282414/173248764-38eb3638-acdc-423d-82a6-c4aef91dbb43.png" width="500">
+
+Het delen van schetsen, zowel intern als extern, maakt samenwerking en creativiteit binnen het  team mogelijk, wat leidt tot een gedeeld begrip en afstemming van begin tot eind. Hierdoor kunnen we geen miscommunicatie oplopen met de opdrachtgever en kunnen we makkelijk feedback krijgen om mogelijke verbeteringen toe te voegen. Door het gebruik van de Adobe XD feature, prototyping, konden we ook Black Box Testing gebruiken om de structuur en ontwerp optimaal te testen.
+
+
+<img src="https://user-images.githubusercontent.com/77282414/173249170-6aa650cf-d25f-490b-bafd-ce2cde13553a.PNG" width="250">
+
+
+Om onze website als laatste nog te testen heb ik ook de website door een performance testing website gehaald. (https://gtmetrix.com/reports/kind-sky-062238903.1.azurestaticapps.net/mYJSRQvH/)
+Performance Testing is een softwaretest proces dat wordt gebruikt voor het testen van de snelheid, responstijd, stabiliteit, betrouwbaarheid, schaalbaarheid en resourcegebruik van een softwaretoepassing onder een bepaalde werkdruk. Het belangrijkste doel van een performance is het identificeren en elimineren van de prestatieknelpunten in de softwaretoepassing.
 
 
 ## **7. Business processes** 

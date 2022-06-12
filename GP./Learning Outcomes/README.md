@@ -108,8 +108,13 @@ Het delen van schetsen, zowel intern als extern, maakt samenwerking en creativit
 <img src="https://user-images.githubusercontent.com/77282414/173249170-6aa650cf-d25f-490b-bafd-ce2cde13553a.PNG" width="250">
 
 
-Om onze website als laatste nog te testen heb ik ook de website door een performance testing website gehaald. (https://gtmetrix.com/reports/kind-sky-062238903.1.azurestaticapps.net/mYJSRQvH/)
+Om onze website ook mee te testen heb ik de website door een performance testing website gehaald. (https://gtmetrix.com/reports/kind-sky-062238903.1.azurestaticapps.net/mYJSRQvH/)
 Performance Testing is een softwaretest proces dat wordt gebruikt voor het testen van de snelheid, responstijd, stabiliteit, betrouwbaarheid, schaalbaarheid en resourcegebruik van een softwaretoepassing onder een bepaalde werkdruk. Het belangrijkste doel van een performance is het identificeren en elimineren van de prestatieknelpunten in de softwaretoepassing.
+
+
+Om merge-conflict te voorkomen werkten we ook met verschillende branches, op deze manier konden we eerst elkaar codes checken en testen voordat deze automatisch werd deployed via de master branch naar Azure.
+
+<img src="https://user-images.githubusercontent.com/77282414/173251063-a283d762-1a96-4929-a0f5-1285c0e213df.PNG" width="750">
 
 
 ## **7. Business processes** 

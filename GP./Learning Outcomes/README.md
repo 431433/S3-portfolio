@@ -33,13 +33,22 @@ De applicatie is eerst ontworpen via schermschetsen in Adobe XD.  Deze hebben we
 
 ### **PIM back-end**
 
-Repository: 
+Repository: https://github.com/PepijnMuskens/ProductService & https://github.com/PepijnMuskens/ApiGateWayWocPim
 
 
 Om te communiceren met de front-end maken wij gebruik van API call’s. De front-end gebruikt dan een extensie, Axios, om die API call aan te roepen en alle nodige data te laten weergeven of data te versturen via de front-end.
 
 ***<p>Axios call van de front-end</p>***
 <img src="https://user-images.githubusercontent.com/77282414/172338566-e74807b2-469f-4832-85c6-482e2b9896f6.PNG" width="750">
+
+De back-end werkt met API controllers om de API calls aan te maken, voor de beveiliging maken we ook gebruik van een gateway, waar de link ook hierboven te vinden is. De gateway is een netwerkpunt dat zorgt voor "toegang" tot een ander netwerk indien deze is toegestaan in de gateway. De gateway is dus een netwerkconfiguratie-eigenschap die aangeeft welk netwerkadres de computer mag gebruiken als hij naar een bestemming moet die niet op het lokale netwerk gelegen is.
+
+       if (category != null)
+                {
+                    Category C = BsonSerializer.Deserialize<Category>(category);
+                    return BsonDocument.Parse(System.Text.Json.JsonSerializer.Serialize(C)).ToString();
+                }
+***Voorbeeld van een klein stukje API die in onze back-end te vinden is***
 
 
 ## **3. Agile method** 
@@ -49,25 +58,26 @@ Om te communiceren met de front-end maken wij gebruik van API call’s. De front
 
 Om deze leeruitkomst aan te tonen maken wij als groep gebruik van Agile Scrum.
 
-(Hier komt een korte uitleg van Agile Scrum)
 
-(Hier komt een korte uitleg over onze onderlinge samenwerking en werkwijze.)
+Op basis van sprints is iedereen bewust van wat er aan de hand is. Op basis van de informatie uit de groepsproject dagen wordt de volgende stap gezet, waar de feedback van de opdrachtgevers en collega's centraal staan. Zo kunnen we snel ons plan van aanpak aanpassen om altijd de goede richting op te gaan, om zo uiteindelijk het ideale product op te leveren voor de opdrachtgevers.
+
+
+Belangrijk is de stand-up meeting van het team. Elk teamlid beantwoord dan 3 centrale vragen:
+
+ - Wat heb jij bereikt sinds de vorige stand-up?
+ - En wat ga jij bereiken tot de volgende stand-up?
+ - Wat is je probleem, wat blokkeert je? Heb je hulp nodig?
+
+Indien een teamlid tegen een probleem aan loopt en dan ook hulp nodgi heeft of in het algemeen gaat er iets fout, maken we gebruik van structuren die bedoeld zijn om de problemen zo snel mogelijk te verhelpen. Zie de afbeelding hieronder.
 
 <img src="https://user-images.githubusercontent.com/77282414/172338984-03596553-85a6-4cdf-bb91-7f92a40a17c0.svg" width="750">
 
 
-
-
-
-
-
-
-
-Hier komt alle communicatie die wij hebben gehad voor de retrospectieve  gesprekken en progressie verhalen.
+Na alle team overleggen of sprint oplevering hebben we in de discord omgeving onze eigen server opgezet, hierdoor kunnen we zelfs als we online werken makkelijk contact houden met elkaar en kunnen we belangerijke documentatie delen met elkaar.
 
 <img src="https://user-images.githubusercontent.com/77282414/172339240-6f1f849a-a73f-409e-8e8a-70078a0975fc.PNG" width="150">
 
-(Trello invoegen)
+
 
 ## **5. Cultural differences and ethics** 
 

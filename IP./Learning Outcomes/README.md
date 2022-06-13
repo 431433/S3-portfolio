@@ -51,7 +51,14 @@ Om de gebruikers commentaar achter te laten, maak ik gebruik van een apart lopen
 
 # Software Quality
 
-Om deze leeruitkomst aan te tonen
+Softwarekwaliteit is een abstract begrip. Zijn aanwezigheid kan moeilijk te definiëren zijn, maar zijn afwezigheid kan onmiddellijk worden gezien. Dus, in de zoektocht naar het verbeteren van de softwarekwaliteit, moeten we eerst de definitie van softwarekwaliteit begrijpen. <a href="https://en.wikipedia.org/wiki/Software_quality">Wikipedia</a> beschrijft de softwarekwaliteit als volgt:
+
+“In de context van software-engineering meet softwarekwaliteit hoe goed de software is ontworpen (kwaliteit van ontwerp) en hoe goed de software overeenkomt met dat ontwerp (kwaliteit van conformiteit). Het wordt vaak omschreven als de ‘fitness for purpose’ van een stukje software.”
+
+Er zijn veel variaties op de definitie van softwarekwaliteit, afhankelijk van het gezichtspunt (ontwikkelaar, eindgebruiker, management...), maar als je de bovenstaande definitie bekijkt, vraagt "fitness for purpose" zich af of de software wel doet wat die moet doen. Dat zijn de kenmerken die wij als eindgebruikers zien. De kwaliteit van het ontwerp en de kwaliteit van conformiteit met dat ontwerp zijn gerelateerd aan interne aspecten van de software, waarvan we sommige kunnen zien, zoals de navigatie van de gebruikersinterface, de plaatsing van bedieningselementen, enzovoort.
+
+Deze gebruikersinterface heb ik doormiddel van verschillende UI ontwerpen getest. Meerdere pagina's in mijn project zijn allemaal ontworpen met andere css en andere plaatsing van bedieningselementen. Zo kon ik een klein onderzoekje doen om te kijken wat er als het beste wordt ervaren als exterene gerbuiker.
+Deze kan je hier terug vinden: **LINKJE**
 
 # CI/CD
 

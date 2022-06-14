@@ -120,6 +120,7 @@ Dit helpt me niet alleen om te verwoorden hoe we van plan zijn een probleem aan 
 
 Het delen van schetsen, zowel intern als extern, maakt samenwerking en creativiteit binnen het  team mogelijk, wat leidt tot een gedeeld begrip en afstemming van begin tot eind. Hierdoor kunnen we geen miscommunicatie oplopen met de opdrachtgever en kunnen we makkelijk feedback krijgen om mogelijke verbeteringen toe te voegen. Door het gebruik van de Adobe XD feature, prototyping, konden we ook Black Box Testing gebruiken om de structuur en ontwerp optimaal te testen.
 
+Black Box Testing is een softwaretestmethode waarbij de functionaliteiten van softwareapplicaties worden getest zonder kennis te hebben van de interne codestructuur, implementatiedetails en interne paden. Black Box Testing richt zich voornamelijk op input en output van softwareapplicaties en is volledig gebaseerd op softwarevereisten en specificaties. Het wordt ook wel gedragstesten genoemd.
 
 <img src="https://user-images.githubusercontent.com/77282414/173249170-6aa650cf-d25f-490b-bafd-ce2cde13553a.PNG" width="250">
 
@@ -128,21 +129,20 @@ Om onze website ook mee te testen heb ik de website door een performance testing
 Performance Testing is een softwaretest proces dat wordt gebruikt voor het testen van de snelheid, responstijd, stabiliteit, betrouwbaarheid, schaalbaarheid en resourcegebruik van een softwaretoepassing onder een bepaalde werkdruk. Het belangrijkste doel van een performance is het identificeren en elimineren van de prestatieknelpunten in de softwaretoepassing.
 
 
-Om merge-conflict te voorkomen werkten we ook met verschillende branches, op deze manier konden we eerst elkaar codes checken en testen voordat deze automatisch werd deployed via de master branch naar Azure.
-
-<img src="https://user-images.githubusercontent.com/77282414/173251063-a283d762-1a96-4929-a0f5-1285c0e213df.PNG" width="750">
-
-
 ## **7. Business processes** 
       **Learning outcome:** 
 
       You analyze and describe **simple** business processes that are **related** to your project.
 
 
-Business process reengineering (BPR) is gericht op het verbeteren van de efficiëntie en effectiviteit van de processen die binnen en tussen organisaties bestaan.
+Een bedrijfsproces is een reeks gerelateerde, gestructureerde activiteiten en stappen die worden uitgevoerd door de mensen of apparatuur in een organisatie om de basisdoelen van de organisatie te bereiken, zoals winstmaximalisatie en klanttevredenheid.
 
+Bedrijfsprocessen kunnen vele malen worden herhaald op alle organisatieniveaus en zijn al dan niet zichtbaar voor de klanten.
 
-<img src="https://user-images.githubusercontent.com/77282414/173250075-004a74d8-941f-4d71-9440-62330efd53b2.png" width="300">
+Een bedrijfsproces wordt vaak beschouwd als een stroomdiagram of workflow van logische stappen, en het dient als een primaire basis voor verschillende gerelateerde ideeën zoals bedrijfsprocesbeheer, procesoptimalisatie, procestoewijzing, processimulatie, procesautomatisering, enz.
+
+Een workflow voor taakbeheer, ook wel workflowprocesbeheer genoemd, is een manier om een reeks kleinere taken te versnellen om een groter doel te bereiken. In ons geval hebben we deze workflow gebruikt om alle stappen duidelijk op papier te hebben die we moeten onderlopen om de kwaliteit van onze code hoog te houden. In de workflow, die je hier onder kan zien, kan je alle stappen volgen die we hebben gebruik dit semester. Zodra er een nieuw backlog item is gaat het aangewezen persoon beginnen met de rest van de workflow. De reviews stukken die te zien zijn in de workflow wordt gedaan door andere groepsgenoten. 
+<img src="https://user-images.githubusercontent.com/77282414/173546681-7e53a6c8-7d97-45e4-a64a-d942c9a48720.png" width="600">
 
 
 
@@ -159,3 +159,7 @@ Dit semester werkten we in sprints van 3/4 weken, na elke sprint was er contact 
 In discord hielden we ook altijd contact over opkomende vergaderingen of eventuele vertragingen die we ervaren met het OV of files, hier hadden we dan ook een apart 'kanaal' voor die we 'meetings'noemde, zo waren er ook kanalen voor notities of off-topic vragen. Op deze manier konden we makkelijk overzicht houden en makkelijk documentatie terug vinden.
 
 In het begin merkte ik wel dat ik minder makkelijk communiceerde met mijn groepje, we overlegten een plan van aanpak met elkaar en daar bleef het meestal bij. Pas na ongeveer 5 weken ging de communicatie soepeler naar mijn gevoel en kon ik ook vragen stellen over mijn indivuele project, we waren niet meer genoodzaakt om puur en alleen te praten over het groepsproject en verder niks. Richting het einde van dit semester was de communicatie voor mij perfect, ik durfte gesprekken te starten en kon mijn mening geven als ik het niet ergens mee eens was, of als ik dacht dat er een betere manier was.
+   
+Om merge-conflict te voorkomen werkten we ook met verschillende branches, op deze manier konden we eerst elkaar codes checken en testen voordat deze automatisch werd deployed via de master branch naar Azure.
+
+<img src="https://user-images.githubusercontent.com/77282414/173251063-a283d762-1a96-4929-a0f5-1285c0e213df.PNG" width="750">

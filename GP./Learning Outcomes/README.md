@@ -96,7 +96,7 @@ Onze antwoorden:
       Jenson: A, B, C, True, A
       Pepijn: A, A, C, True, B
       Coen: A, B, C, True, A
-      Marijn: A, B, C, True, A
+      Marijn: C, A, C, False, A
    ```
 Er wordt gezegd dat medewerkers vaak meer overeenkomsten hebben dan verschillen, maar die verschillen kunnen soms groter zijn dan de overeenkomsten. Hoewel deze verschillende verschillen een levendiger omgeving kunnen creëren, kunnen ze ook leiden tot meer dan een paar problemen als gevolg van cultuurclash. Gelukkig desondanks dat we sommige vragen verschillend antwoorden, waren we bereid om elkaars andere perspectieve aan te horen en begrepen hun andere zicht op het probleem ook. 
 In het begin waren de culturele verschillen wel groter, dit was niks negatiefs, maar het was wel op te merken. Dit werd veroorzaakt door een groepsgenoot die Engels sprak, qua gedrag en  cognitieve constructies waren en weinig verschillen. Het verschil werd dan ook alleen opgemerkt in de taal.
@@ -107,7 +107,7 @@ In het begin waren de culturele verschillen wel groter, dit was niks negatiefs, 
 
       You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
       
-Documentatie: (linkje invoegen)
+Documentatie: <a href="https://github.com/431433/S3-portfolio/tree/main/GP./Documentation">linkje<a/>
 
 Na ons eerste overleg met de opdrachtgever waren we aan de slag gegaan om requirements op te stellen, op deze manier konden we het bestaansrecht van het project doorlopend blijven toetsen door deze altijd te bespreken. Zie het als een vorm van procesbewaking. Hierdoor was het altijd duidelijk wat we moesten doen en hoe de opdrachtgever het ook voor zich zag.
 

@@ -160,6 +160,8 @@ In discord hielden we ook altijd contact over opkomende vergaderingen of eventue
 
 In het begin merkte ik wel dat ik minder makkelijk communiceerde met mijn groepje, we overlegten een plan van aanpak met elkaar en daar bleef het meestal bij. Pas na ongeveer 5 weken ging de communicatie soepeler naar mijn gevoel en kon ik ook vragen stellen over mijn indivuele project, we waren niet meer genoodzaakt om puur en alleen te praten over het groepsproject en verder niks. Richting het einde van dit semester was de communicatie voor mij perfect, ik durfte gesprekken te starten en kon mijn mening geven als ik het niet ergens mee eens was, of als ik dacht dat er een betere manier was.
    
-Om merge-conflict te voorkomen werkten we ook met verschillende branches, op deze manier konden we eerst elkaar codes checken en testen voordat deze automatisch werd deployed via de master branch naar Azure.
+In het begin van de proftaak hebben we ook veel geleerd over TypeScript samen met Vue extensies. Vooral dat deze niet samen werken, hierdoor hebben we helaas onze volledige front-end opnieuw moeten doen toen we van een Vue project met TypeScript gegaan waren naar een Vue project met Javascript. We hebben door deze switch wel geleerd hoe we via command lines een project kunnen aanmaken waar de meest gebruikte extenties, zoals vue router, al in zitten. Dit scheelde veel werk waardoor we een niet al te grote achterstand opliepen.
+   
+Om merge-conflict te voorkomen werkten we ook met verschillende branches, op deze manier konden we eerst elkaar codes checken en testen voordat deze automatisch werd deployed via de master branch naar Azure. Deze stappen zijn ook terug te vinden in leerdoel 7, bij de onderste afbeelding, waar wij deze workflow hebben uitgewerkt.
 
 <img src="https://user-images.githubusercontent.com/77282414/173251063-a283d762-1a96-4929-a0f5-1285c0e213df.PNG" width="750">

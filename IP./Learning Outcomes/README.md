@@ -155,8 +155,8 @@ jobs:
 
 ### **Git workflow,**
 
-Om mijn project zo soepel mogelijk te laten lopen, werk in met verschillende branches om mogelijke &#39;merge conflicts&#39; te voorkomen.
-
+Om mijn project zo soepel mogelijk te laten lopen, wou ik werken in met verschillende branches om mogelijke &#39;merge conflicts&#39; te voorkomen.
+Ik wou dus werken met de volgende branches:
 **Branches:**
 
 - Master
@@ -164,9 +164,14 @@ Om mijn project zo soepel mogelijk te laten lopen, werk in met verschillende bra
 - Release
 - Development
 - Feature
-
-![GitBranching_3](https://user-images.githubusercontent.com/77282414/168022124-7be833fe-fa9d-4e9f-8496-4d698a69a0b8.png)
   
+  In de praktijk bleek dit alleen anders te verlopen. Deze hoeveelheid branches werkt misschien goed en fijn in grote werkgroepen, maar ik ben in dit project alleen. Daarom ben ik gegaan met een Personal Branching Git Workflow. Persoonlijke vertakking is vergelijkbaar met functievertakking, maar in plaats van één enkele vertakking per functie, is het per ontwikkelaar. Deze aanpak werkt goed als teamleden aan verschillende functies en bugs werken. Elke gebruiker kan terug mergen naar de hoofdbranch wanneer zijn of haar werk gedaan is.\
+***bron: https://about.gitlab.com/topics/version-control/what-is-git-workflow/***
   
+Ik heb dus voor mezelf een branch aangemaakt, genaamt feature. Hierin kon ik telkens mijn code pushen en als alles gereed was, kon ik het naar de master branch mergen en werd alles deployed naar Azure.
+  <img src="https://user-images.githubusercontent.com/77282414/174169372-074e64cd-677a-40be-adfb-95f4017581d3.svg" width="">
   
+  ### Communicatie
+  
+  Mijn communicatie dit semester had een erg stroeve start, hij was namelijk amper aanwezig. Ongeveer vanaf halverwege dit semester probeerde ik dit erg te verbeteren en mijn docenten meer te spreken. Dit is in zekere zin gelukt, maar er konden veel meer gesprekken plaats hebben gevonden als ik meteen vanaf het begin gesprekken aanvroeg. In de toekomst wil ik er echt heel erg op letten dat ik opender ben over mijn progressie. Zelfs als ik niet veel heb om te laten zien, of alleen onderzoek heb gedaan, dat ik het wel kort vertel aan een docent. Hierdoor blijven hun ook op de hoogte van mijn stand van zaken. 
 

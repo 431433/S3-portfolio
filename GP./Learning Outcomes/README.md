@@ -51,6 +51,10 @@ De back-end werkt met API controllers om de API calls aan te maken, voor de beve
 ***Voorbeeld van een klein stukje API die in onze back-end te vinden is***
 
 
+Dit semester was de eerste keer dat ik heb gewerkt met een full stack applicatie. Het begin hiervan was dan ook voor mij persoonlijk heel moeilijk, ik kwam niet makkelijk opgang om de verbinding te leggen. Qua de nieuwe programmeer taal, Vue, te leren ging dat wel veel soepeler en kreeg ik makkelijk onder de knie en kon zo ook makkelijk een mooie front-end neerzetten gebaseerd op onze schermschetsen. 
+In de toekomst moet het opzetten van een full stack project veel makkelijker verlopen met de kennis die ik heb opgedaan dit semester. Het ontwerpen heb ik vorig semester al voor een groot deel in gespecialiseerd omdat dit mij erg aantrok, ik heb toen ook geleerd om met Adobe XD te werken. Dit semester heb ik echter geleerd hoe je een soort interactieve presentatie van kan maken, zo dat je makkelijk kan laten zien welke knop je naar welke pagina brengt. Dit heeft uiteindelijk ook geholpen met het presenteren van de schermschetsen aan de opdrachtgever.
+
+
 ## **3. Agile method** 
       **Learning outcome**
 
@@ -68,15 +72,19 @@ Belangrijk is de stand-up meeting van het team. Elk teamlid beantwoord dan 3 cen
  - En wat ga jij bereiken tot de volgende stand-up?
  - Wat is je probleem, wat blokkeert je? Heb je hulp nodig?
 
-Indien een teamlid tegen een probleem aan loopt en dan ook hulp nodgi heeft of in het algemeen gaat er iets fout, maken we gebruik van structuren die bedoeld zijn om de problemen zo snel mogelijk te verhelpen. Zie de afbeelding hieronder.
+Indien een teamlid tegen een probleem aan loopt en dan ook hulp nodig heeft of in het algemeen als er iets fout gaat, maken we gebruik van structuren die bedoeld zijn om de problemen zo snel mogelijk te verhelpen. Zie de afbeelding hieronder.
 
 <img src="https://user-images.githubusercontent.com/77282414/172338984-03596553-85a6-4cdf-bb91-7f92a40a17c0.svg" width="750">
 
 
-Na alle team overleggen of sprint oplevering hebben we in de discord omgeving onze eigen server opgezet, hierdoor kunnen we zelfs als we online werken makkelijk contact houden met elkaar en kunnen we belangerijke documentatie delen met elkaar.
+Na alle team overleggen of sprint oplevering hebben we in de discord omgeving onze eigen server opgezet, hierdoor kunnen we zelfs als we online werken makkelijk contact houden met elkaar en kunnen we belangerijke documentatie delen met elkaar. Laterna is wel gebleken dat discord niet zo veilig is als ik in eerste instantie dacht, dus in de toekomst zal ik deze communicatie software waarschijnlijk niet nog een keer gebruiken.
 
 <img src="https://user-images.githubusercontent.com/77282414/172339240-6f1f849a-a73f-409e-8e8a-70078a0975fc.PNG" width="150">
 
+Agile werken was ook voor de eerste keer dit semester. De scrum manier van werken kende ik al van vorige semester, daar waren toen vooral de rollen belangrijk onderling. Dit semester moesten we die rollen verdeling weer los laten. In het begin voelde dit wel raar, maar maakte het wel makkelijker om bewust te zijn van wat er gaande was in het hele project. De een was niet alleen bezig met de front-end of de ander met de back-end, er werd onderling gewisseld. Hierdoor was iedereen in staat om elkaar te helpen, want ze wisten er van af en of waar ze mee bezig waren. 
+Verdere ontwikkeling in het agile werken bleef in het begin wel hangen, we hadden in het begin dan ook moeite met het houden van stand-ups, tot wij deze lichtelijk aanpasten zodat deze ideaal pasten bij onze werkwijze. Wij hielden ze compact en concreet, als iemand kon helpen gingen die er dieper op in samen en kwamen later na met een korte reflectie wat het probleem was. 
+Daarnaast hebben we ook nog gewerkt, onbewust wel, met "over-the-shoulder" code review. Dit is de meest voorkomende en informele code-review. Een "over-the-shoulder" recensie is eigenlijk precies zoals het klinkt. Ik zou een stuk code kunnen schrijven en Bas kijkt mee, ik leg dan aan Bas uit wat ik aan het doen ben en welk effect het zal gaan hebben.
+Voor de volgende keer dat ik weer ga werken met agile wil het de stand-ups meteen oppakken en kijken naar mogelijke uitbreidingen die we kunnen toevoegen aan onze werkwijze en communicatie. Zo kan je kijken of misschien Kanban wat voor ons is, hiermee kan je makkelijk signaleren wanner iets nodig is en kan gebruikt worden om van alles in het leven te organiseren.
 
 
 ## **5. Cultural differences and ethics** 
@@ -90,16 +98,13 @@ Cultuur omvat religie, eten, wat we dragen, hoe we het dragen, onze taal, huweli
    
 Binnen onze eigen groep hebben we deze culturele verschillen getest doormiddel van een presentatie die met ons is gedeeld via school. In deze presentatie staan vragen gefomuleerd over verschillende aspecten die je misschien tegen kan komen in het leven, bedoeld om onderling discussies te stimuleren.
     
-Onze antwoorden:
-   ```
-      Bas: A, B, C, True, A
-      Jenson: A, B, C, True, A
-      Pepijn: A, A, C, True, B
-      Coen: A, B, C, True, A
-      Marijn: C, A, C, False, A
-   ```
-Er wordt gezegd dat medewerkers vaak meer overeenkomsten hebben dan verschillen, maar die verschillen kunnen soms groter zijn dan de overeenkomsten. Hoewel deze verschillende verschillen een levendiger omgeving kunnen creëren, kunnen ze ook leiden tot meer dan een paar problemen als gevolg van cultuurclash. Gelukkig desondanks dat we sommige vragen verschillend antwoorden, waren we bereid om elkaars andere perspectieve aan te horen en begrepen hun andere zicht op het probleem ook. 
-In het begin waren de culturele verschillen wel groter, dit was niks negatiefs, maar het was wel op te merken. Dit werd veroorzaakt door een groepsgenoot die Engels sprak, qua gedrag en  cognitieve constructies waren en weinig verschillen. Het verschil werd dan ook alleen opgemerkt in de taal.
+Deze discussies hebben we helaas wel maar met zijn 4en kunnen houden in persoon, de 5e was online te vinden en 2 zijn er gestopt. De discussies die hebben we gehouden waren vrijwel alleen om te kijken of hun misschien een andere onderbouwing hadden van hun antwoorden. De antwoorden die we namelijk gaven kwamen voor een groot gedeelte overeen. Tijdens deze discussies kon je wel merken dat we open waren en eerlijk durfde te antwoorden, als ik dit zou moeten vergelijken met het begin van dit semester was dit een grote vooruitgang. Zeker ben ik niet of dit gevoel terecht was, maar de omgeving, toon in de stem en de sfeer in het algemeen waren vrolijker en meer gerust.
+   
+Er wordt gezegd dat groepsgenoten vaak meer overeenkomsten hebben dan verschillen, maar die verschillen kunnen soms groter zijn dan de overeenkomsten. Hoewel deze verschillen een levendiger omgeving kunnen creëren, kunnen ze ook leiden tot meer dan een paar problemen als gevolg van cultuurclash. Gelukkig desondanks dat we sommige vragen verschillend antwoorden, waren we bereid om elkaars andere perspectieve aan te horen en begrepen hun andere zicht op het probleem ook. In het begin waren de culturele verschillen wel groter, dit was niks negatiefs, maar het was wel op te merken. 
+Hoe een cultuur er ook uitziet, één ding is zeker: culturen veranderen altijd. Cultuur lijkt de sleutel te zijn geworden tot onze onderling verbonden wereld, die bestaat uit zoveel etnisch diverse samenlevingen, maar ook met conflicten over religie, etniciteit, morele overtuigingen en in wezen, de elementen waaruit cultuur bestaat.
+   
+Mensen kunnen oorlog voeren als hun culturen niet overeen komen, nou is dat natuurlijk gelukkig niet overal het geval. Wel komt het vaak voor dat mensen worden buitengesloten door deze verschillen. Mensen moeten het nog leren te omarmen dat we verschillend zijn. In het einde van dit semester, eigenlijk al best wel laat, was het pas goed te merken dat wij als groepsgenoten helemaal niet zo heel veel verschillen. Inderdaad met de een praat je net wat anders of heb je het over een ander onderwerp, maar dat zal altijd zo blijven.
+
 
 
 ## **6. Requirements and Design** 
@@ -128,7 +133,9 @@ Black Box Testing is een softwaretestmethode waarbij de functionaliteiten van so
 Om onze website ook mee te testen heb ik de website door een performance testing website gehaald. (https://gtmetrix.com/reports/kind-sky-062238903.1.azurestaticapps.net/mYJSRQvH/)
 Performance Testing is een softwaretest proces dat wordt gebruikt voor het testen van de snelheid, responstijd, stabiliteit, betrouwbaarheid, schaalbaarheid en resourcegebruik van een softwaretoepassing onder een bepaalde werkdruk. Het belangrijkste doel van een performance is het identificeren en elimineren van de prestatieknelpunten in de softwaretoepassing.
 
-
+Al deze tests heb ik gebruikt om zo’n duidelijk beeld te krijgen wat de opdrachtgever nou van ons vraagt. De prestatie test heb ik dan gebruikt om te checken of onze website niet te zwaar is en daardoor als erg traag wordt ervaren. Dit allemaal heeft geholpen bij het duidelijk beeld van de opdracht en gaf ook een duidelijk beeld waar de focus op lag. Bij elk toekomstig project wil ik ook deze manier van communicatie houden.
+   
+   
 ## **7. Business processes** 
       **Learning outcome:** 
 
@@ -141,10 +148,13 @@ Bedrijfsprocessen kunnen vele malen worden herhaald op alle organisatieniveaus e
 
 Een bedrijfsproces wordt vaak beschouwd als een stroomdiagram of workflow van logische stappen, en het dient als een primaire basis voor verschillende gerelateerde ideeën zoals bedrijfsprocesbeheer, procesoptimalisatie, procestoewijzing, processimulatie, procesautomatisering, enz.
 
-Een workflow voor taakbeheer, ook wel workflowprocesbeheer genoemd, is een manier om een reeks kleinere taken te versnellen om een groter doel te bereiken. In ons geval hebben we deze workflow gebruikt om alle stappen duidelijk op papier te hebben die we moeten onderlopen om de kwaliteit van onze code hoog te houden. In de workflow, die je hier onder kan zien, kan je alle stappen volgen die we hebben gebruik dit semester. Zodra er een nieuw backlog item is gaat het aangewezen persoon beginnen met de rest van de workflow. De reviews stukken die te zien zijn in de workflow wordt gedaan door andere groepsgenoten. 
+***Een workflow voor taakbeheer, ook wel workflowprocesbeheer genoemd, is een manier om een reeks kleinere taken te versnellen om een groter doel te bereiken. In ons geval hebben we deze workflow gebruikt om alle stappen duidelijk op papier te hebben die we moeten onderlopen om de kwaliteit van onze code hoog te houden. In de workflow, die je hier onder kan zien, kan je alle stappen volgen die we hebben gebruik dit semester. Zodra er een nieuw backlog item is gaat het aangewezen persoon beginnen met de rest van de workflow. De reviews stukken die te zien zijn in de workflow wordt gedaan door andere groepsgenoten.***
 <img src="https://user-images.githubusercontent.com/77282414/173546681-7e53a6c8-7d97-45e4-a64a-d942c9a48720.png" width="600">
+  
+De workflow die hierboven staat is geen business proces, wat wij hadden gemaakt wordt eerder geclassificeerd als een technisch proces. Bij een business proces kan je deze beter beeld geven via ‘zwembaden’. Een zwembad vertegenwoordigt belangrijke deelnemers in een proces. Verschillende zwembaden kunnen verschillende bedrijven of afdelingen zijn, die toch bij het proces betrokken zijn. Zwembanen binnen een zwembad tonen de activiteiten en stromen voor een bepaalde rol of deelnemer, en definiëren zo wie verantwoordelijk is voor welk deel van het proces. In de toekomst moeten we dan ook eerder beginnen met zulke modellen om de activiteiten beter beeld te geven zowel aan de opdrachtgever als voor ons zelf. Deze business proces modeling notering vraagt tijd en energie, maar die inspanning wordt uiteindelijk dus beloond met veel meer inzicht en vooruitgang. Het doel van bedrijfsprocesmodellering is het creëren van een cyclus van continue verbetering. De te nemen stappen zijn: modelleren, implementeren, uitvoeren, verifiëren en optimaliseren. Het business proces speelt daarbij een belangrijke rol.
 
-
+![bpmn-zwembaan](https://user-images.githubusercontent.com/77282414/174150516-212282ec-7df7-43f4-b5ec-64259f17e9b2.png)
+***Swim lanes***
 
 ## **8. Professional** 
       **Learning outcome:**
@@ -165,3 +175,8 @@ In het begin van de proftaak hebben we ook veel geleerd over TypeScript samen me
 Om merge-conflict te voorkomen werkten we ook met verschillende branches, op deze manier konden we eerst elkaar codes checken en testen voordat deze automatisch werd deployed via de master branch naar Azure. Deze stappen zijn ook terug te vinden in leerdoel 7, bij de onderste afbeelding, waar wij deze workflow hebben uitgewerkt.
 
 <img src="https://user-images.githubusercontent.com/77282414/173251063-a283d762-1a96-4929-a0f5-1285c0e213df.PNG" width="750">
+   
+De workflow die hierboven wordt weergeven is van onze front-end, de bedoeling was een Personal branching Git workflow. Dat is vergelijkbaar met feature branching, maar in plaats van één enkele vertakking per functie, is het per ontwikkelaar. Deze aanpak werkt goed als teamleden aan verschillende functies en bugs werken. Elke gebruiker kan terug mergen naar de hoofdbranch wanneer zijn of haar werk gedaan is. De bedoeling begon goed, maar het daadwerkelijk uitvoeren is minder gelukt. 
+‘Persoonlijke vertakking’ is handig voor langlopende functies die mogelijk niet in een enkele releasecyclus passen. Deze strategie kan goed werken voor kleine teams waarin elk teamlid zijn eigen onderdeel van de applicatie ontwikkelt, wat voor ons grotendeels ook het geval was. 
+Het idee was goed bedoeld dit semester en deze git workflow is ook heel handig lijkt mij. In de toekomst wil ik deze dan dus ook zeker nog een keer gebruiken, maar dan juist. Niet meer dat een nieuwe branch wordt gemaakt vanuit een andere feature branch zoals bij ons is gebeurd. Er moet een duidelijk overzicht blijven van de branches.
+

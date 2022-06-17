@@ -6,15 +6,13 @@
 
     You design and build **user-friendly**, **full-stack** web applications**.**
 
-Om deze leeruitkomst aan te tonen in het groepsproject hebben we met zijn alle samen gewerkt om een full-stack web applicatie te maken voor onze stakeholders. 
-
+Om deze leeruitkomst aan te tonen in het groepsproject hebben we met zijn alle samengewerkt om een full-stack web applicatie te maken voor onze stakeholders.
 De opdracht is dat we een kleinere variant moeten maken van een PIM-systeem.
 
 **Wat is een PIM-systeem?**
 
 In een Product Informatie Management (PIM) systeem beheert en ordent een onderneming alle relevante informatie over de producten die zij produceert of verkoopt.
-
-De applicatie van ons groepsproject is geschreven in C# voor de back-end en vue.js voor de front-end. 
+De applicatie van ons groepsproject is geschreven in C# voor de back-end en vue.js voor de front-end.
 
 
 ###  **PIM front-end**
@@ -41,7 +39,7 @@ Om te communiceren met de front-end maken wij gebruik van API call’s. De front
 ***<p>Axios call van de front-end</p>***
 <img src="https://user-images.githubusercontent.com/77282414/172338566-e74807b2-469f-4832-85c6-482e2b9896f6.PNG" width="750">
 
-De back-end werkt met API controllers om de API calls aan te maken, voor de beveiliging maken we ook gebruik van een gateway, waar de link ook hierboven te vinden is. De gateway is een netwerkpunt dat zorgt voor "toegang" tot een ander netwerk indien deze is toegestaan in de gateway. De gateway is dus een netwerkconfiguratie-eigenschap die aangeeft welk netwerkadres de computer mag gebruiken als hij naar een bestemming moet die niet op het lokale netwerk gelegen is.
+De back-end werkt met API controllers om de API calls aan te maken, voor de beveiliging maken we ook gebruik van een gateway, waar de link ook hierboven te vinden is. De gateway is een netwerkpunt dat zorgt voor "toegang" tot een ander netwerk als deze is toegestaan in de gateway. De gateway is dus een netwerkconfiguratie-eigenschap die aangeeft welk netwerkadres de computer mag gebruiken als hij naar een bestemming moet die niet op het lokale netwerk gelegen is.
 
        if (category != null)
                 {
